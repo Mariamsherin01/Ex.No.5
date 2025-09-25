@@ -35,4 +35,27 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 # OUTPUT
 
+<img width="981" height="670" alt="image" src="https://github.com/user-attachments/assets/40301a14-4d34-45bd-8560-53d6c9039e94" />
+
+
+Analysis of Results:
+
+Quality: Basic prompts produced richer, more coherent, and relevant content compared to naïve prompts.
+
+Accuracy: Basic prompts ensured correct facts and avoided overly generic answers.
+
+Depth: Basic prompts guided the AI to provide layered, structured, and in-depth responses.
+
+Consistency: ChatGPT consistently performed better with refined prompts, though in very simple tasks (like telling any story), naïve prompts sometimes worked decently.
+
+Summary of Findings:
+
+Clear, structured prompts significantly improve the quality, accuracy, and depth of AI responses.
+
+Naïve prompts tend to give short, generic, and vague answers.
+
+Refined prompts help AI understand context, structure, and expectations, resulting in better outputs.
+
+Optimal Prompting Strategy: Always define the task, context, format, and constraints when interacting with AI tools.
+
 # RESULT: The prompt for the above said problem executed successfully
