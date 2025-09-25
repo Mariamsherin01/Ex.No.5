@@ -58,4 +58,5 @@ Refined prompts help AI understand context, structure, and expectations, resulti
 
 Optimal Prompting Strategy: Always define the task, context, format, and constraints when interacting with AI tools.
 
-# RESULT: The prompt for the above said problem executed successfully
+# RESULT: 
+The prompt for the above said problem executed successfully
